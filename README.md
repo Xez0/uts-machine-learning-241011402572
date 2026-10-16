@@ -38,7 +38,7 @@ Tujuan bagian ini adalah memodelkan pengaruh biaya iklan ($X$, dalam juta rupiah
 - **Hasil Prediksi Kasus Baru:**
   - Iklan Rp4,5 Juta $\rightarrow$ Prediksi Penjualan: **Rp68,69 Juta**
   - Iklan Rp7,0 Juta $\rightarrow$ Prediksi Penjualan: **Rp91,50 Juta**
-  - Iklan Rp12,0 Juta $\rightarrow$ Prediksi Penjualan: **Rp137,11 Juta** *(Ekstrapolasi: perlu dicermati karena angka 12 juta berada di luar rentang data historis 0.8–6.5 juta)*.
+  - Iklan Rp12,0 Juta $\rightarrow$ Prediksi Penjualan: **Rp137,11 Juta** *(Ekstrapolasi: perlu dicermati karena angka 12 juta berada di luar rentang data historis 0.8–9.9 juta)*.
 
 ---
 
